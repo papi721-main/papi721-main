@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | DevOps Enthusiast | Data Science Explorer</h3>
 
 <p align="center">
-  <em>“I am passionate about building applications that help others.”</em>
+  <em>“I am passionate about building applications that helps business and improve people's lives.”</em>
 </p>
 
 ---
@@ -23,14 +23,11 @@ I’m a learner in the <strong>ALX Backend Development Program</strong> and also
 ### 👨‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -39,17 +36,9 @@ I’m a learner in the <strong>ALX Backend Development Program</strong> and also
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=papi721-main&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papi721-main&theme=radical" width="400"/>
 </p>
-
----
-
-## 📚 Current Projects
-
-- 🌐 **ALX Backend Projects**: C-based system-level projects, Python scripting, RESTful APIs
-- ☁️ **DevOps Playground**: Dockerize apps, CI/CD pipelines, monitoring with Prometheus & Grafana
-- 📊 **Data Science Practice**: Exploring ML and data visualization using Pandas, Matplotlib, and scikit-learn
 
 ---
 
