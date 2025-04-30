@@ -5,8 +5,6 @@
   <em>“I am passionate about building applications that helps business and improve people's lives.”</em>
 </p>
 
----
-
 ## 🚀 About Me
 
 I’m a learner in the <strong>ALX Backend Development Program</strong> and also exploring Data Science through an additional ALX track. I’m a <strong>MSc candidate in Computer Science at HiLCoE School of Computer Science</strong> with a passion for using technology to solve real-world problems and improve lives.
@@ -15,8 +13,6 @@ I’m a learner in the <strong>ALX Backend Development Program</strong> and also
 - Building scalable and secure backend systems
 - Automating workflows and deploying applications using DevOps tools
 - Extracting insights from data to drive smarter decisions
-
----
 
 ## 🛠️ Tech Stack
 
@@ -31,16 +27,12 @@ I’m a learner in the <strong>ALX Backend Development Program</strong> and also
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=papi721-main&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=papi721-main&theme=radical" width="400"/>
 </p>
-
----
 
 ## 💬 Let's Connect!
 
