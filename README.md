@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a learner in the <strong>ALX Backend Development Program</strong> and also exploring Data Science through an additional ALX track. I’m a <strong>MSc candidate in Computer Science at HiLCoE School of Computer Science</strong> with a passion for using technology to solve real-world problems and improve lives.
+I’m a learner in the <strong>ALX Backend Development Program</strong> and also exploring <strong>Data Science</strong> through an additional ALX track. I’m also a <strong>MSc candidate in Computer Science at the HiLCoE School of Computer Science College</strong> with a passion for using technology to solve real-world problems and improve lives.
 
 💡 I'm especially interested in:
 - Building scalable and secure backend systems
